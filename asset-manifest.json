@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/defi-stake-yield-brownie/static/css/main.eaf863c6.chunk.css",
+    "main.js": "/defi-stake-yield-brownie/static/js/main.95b1e002.chunk.js",
+    "main.js.map": "/defi-stake-yield-brownie/static/js/main.95b1e002.chunk.js.map",
+    "runtime-main.js": "/defi-stake-yield-brownie/static/js/runtime-main.543e8876.js",
+    "runtime-main.js.map": "/defi-stake-yield-brownie/static/js/runtime-main.543e8876.js.map",
+    "static/js/2.985fa3e9.chunk.js": "/defi-stake-yield-brownie/static/js/2.985fa3e9.chunk.js",
+    "static/js/2.985fa3e9.chunk.js.map": "/defi-stake-yield-brownie/static/js/2.985fa3e9.chunk.js.map",
+    "static/js/3.b6ed2fa4.chunk.js": "/defi-stake-yield-brownie/static/js/3.b6ed2fa4.chunk.js",
+    "static/js/3.b6ed2fa4.chunk.js.map": "/defi-stake-yield-brownie/static/js/3.b6ed2fa4.chunk.js.map",
+    "index.html": "/defi-stake-yield-brownie/index.html",
+    "static/css/main.eaf863c6.chunk.css.map": "/defi-stake-yield-brownie/static/css/main.eaf863c6.chunk.css.map",
+    "static/js/2.985fa3e9.chunk.js.LICENSE.txt": "/defi-stake-yield-brownie/static/js/2.985fa3e9.chunk.js.LICENSE.txt",
+    "static/media/dapp.70067729.png": "/defi-stake-yield-brownie/static/media/dapp.70067729.png",
+    "static/media/eth.4aa4d7e0.png": "/defi-stake-yield-brownie/static/media/eth.4aa4d7e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543e8876.js",
+    "static/js/2.985fa3e9.chunk.js",
+    "static/css/main.eaf863c6.chunk.css",
+    "static/js/main.95b1e002.chunk.js"
+  ]
+}

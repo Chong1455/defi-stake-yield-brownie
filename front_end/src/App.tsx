@@ -1,8 +1,8 @@
 import React from "react";
 import { DAppProvider, ChainId } from "@usedapp/core";
-import { Header } from "./components/Header";
+import { Header } from "./features/Header";
 import { Container } from "@material-ui/core";
-import { Main } from "./components/Main";
+import { Main } from "./features/Main";
 
 function App() {
   return (

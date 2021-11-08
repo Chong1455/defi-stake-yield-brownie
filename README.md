@@ -8,6 +8,9 @@ A full stack Decentralized Finance (DeFi) staking application built with Solidit
 * `getUserTotalValue`: Calculate the total value that users have provided based on Chainlink Price Feeds.
 * `issueTokens`: Give tokens as a reward to the users staking on the platform.
 
+# Deployed version
+Live demo👉: https://chong1455.github.io/defi_front_end/
+
 # Prerequisites
 Please install or have installed the following:
 * nodejs and npm

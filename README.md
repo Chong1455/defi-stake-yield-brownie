@@ -2,7 +2,7 @@
 ![Image](https://github.com/Chong1455/vue-portfolio/blob/master/src/assets/project11.jpg)
 
 # Summary
-This is a full stack Decentralized Finance (DeFi) staking application built with Solidity and Python. It allows you to:
+A full stack Decentralized Finance (DeFi) staking application built with Solidity and Python. It allows you to:
 * `stakeTokens`: Adding any approved token from your contract to yield farming.
 * `unStakeTokens`: Remove your tokens from the contract
 * `getUserTotalValue`: Calculate the total value that users have provided based on Chainlink Price Feeds.
